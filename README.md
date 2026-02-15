@@ -23,8 +23,6 @@ Tu tarea es construir el proyecto según los diseños dentro de la carpeta `/des
 
 Los diseños están en formato estático JPG. Usar JPGs significa que necesitarás usar tu mejor juicio para estilos como `font-size`, `padding` y `margin`.
 
-Si deseas los archivos de diseño (proporcionamos versiones de Sketch y Figma) para inspeccionar el diseño con más detalle, puedes [suscribirte como miembro PRO](https://www.frontendmentor.io/pro).
-
 Todos los recursos necesarios para este proyecto están en la carpeta `/assets`. Las imágenes ya están exportadas para el tamaño de pantalla correcto y optimizadas.
 
 También incluimos archivos de fuentes variables y estáticas para las fuentes requeridas en este proyecto. Puedes elegir entre enlazar a Google Fonts o usar los archivos de fuentes locales para alojar las fuentes tú mismo. Ten en cuenta que hemos eliminado los archivos de fuentes estáticas para los pesos de fuente que no son necesarios para este proyecto.
@@ -70,30 +68,5 @@ Recomendamos encarecidamente sobrescribir este `README.md` con uno personalizado
 La plantilla proporciona una guía de qué agregar. Un `README` personalizado te ayudará a explicar tu proyecto y reflexionar sobre tus aprendizajes. Por favor, siéntete libre de editar nuestra plantilla tanto como desees.
 
 Una vez que hayas agregado tu información a la plantilla, elimina este archivo y renombra el archivo `README-template.md` a `README.md`. Eso hará que aparezca como el archivo README de tu repositorio.
-
-## Enviando tu solución
-
-Envía tu solución en la plataforma para que el resto de la comunidad la vea. Sigue nuestra ["Guía completa para enviar soluciones"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) para obtener consejos sobre cómo hacer esto.
-
-Recuerda, si estás buscando retroalimentación sobre tu solución, asegúrate de hacer preguntas al enviarla. Cuanto más específico y detallado seas con tus preguntas, mayor será la posibilidad de obtener retroalimentación valiosa de la comunidad.
-
-## Compartiendo tu solución
-
-Hay múltiples lugares donde puedes compartir tu solución:
-
-1. Comparte tu página de solución en el canal **#finished-projects** de nuestra [comunidad](https://www.frontendmentor.io/community).
-2. Tuitea [@frontendmentor](https://twitter.com/frontendmentor) y menciona **@frontendmentor**, incluyendo las URLs del repositorio y en vivo en el tweet. Nos encantaría echar un vistazo a lo que has construido y ayudar a compartirlo.
-3. Comparte tu solución en otros canales sociales como LinkedIn.
-4. Escribe un blog sobre tu experiencia construyendo tu proyecto. Escribir sobre tu flujo de trabajo, elecciones técnicas y hablar sobre tu código es una forma brillante de reforzar lo que has aprendido. Excelentes plataformas para escribir son [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), y [CodeNewbie](https://community.codenewbie.org/).
-
-Proporcionamos plantillas para ayudarte a compartir tu solución una vez que la hayas enviado en la plataforma. Por favor, edítalas e incluye preguntas específicas cuando busques retroalimentación.
-
-Cuanto más específico seas con tus preguntas, más probable es que otro miembro de la comunidad te dé retroalimentación.
-
-## ¿Tienes retroalimentación para nosotros?
-
-¡Nos encanta recibir retroalimentación! Siempre buscamos mejorar nuestros desafíos y nuestra plataforma. Así que si tienes algo que te gustaría mencionar, por favor envía un correo electrónico a hi[at]frontendmentor[dot]io.
-
-Este desafío es completamente gratuito. Por favor, compártelo con cualquiera que lo encuentre útil para practicar.
 
 **¡Diviértete construyendo!** 🚀
