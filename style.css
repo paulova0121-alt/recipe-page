@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(255, 226, 193);
+}
+img{
+    border-radius: 5%;
+height: 320px;}
+.card {
+  max-width: 700px;
+  margin: 40px auto;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: hsl(330, 100%, 98%)
+
+}
+.preparation{
+    background-color: rgba(255, 217, 217, 0.37);
+    border-radius: 5%;
+    padding: 6px;
+    line-height: 180%;
+}
+.prepartime {
+    color: rgba(133, 0, 33, 0.925);
+ font-size: 120%;
+ line-height: 8%;
+ text-align: left;
+ font-weight:bold;
+   }
+   
+   .ingridi{
+    color: hsl(332, 51%, 32%)
+   }
+   .instru{
+    color: hsl(332, 51%, 32%)
+}
+.nutrition-table td{
+    padding: 12px 8px;
+border-bottom: 1px solid #ddd;
+
+}
+.nutrition-table tr:last-child td {
+  border-bottom: none;
+}
