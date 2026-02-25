@@ -1,37 +1,85 @@
-body{
-    background-color: rgb(255, 226, 193);
+@font-face {
+    font-family:"YoungSerif" ;
+    src: url(D:\paula\curso\recipe-page\assets\fonts\young-serif\YoungSerif-Regular.ttf);
+font-weight: 400;                   
+    font-style: normal;
 }
+
+@font-face {
+    font-family:"Oufit" ;
+    src: url(D:\paula\curso\recipe-page\assets\fonts\outfit\Outfit-VariableFont_wght.ttf);
+font-weight: 400, 600, 700;
+    font-style: normal;
+}
+*{
+     line-height: 1.5;
+    align-items: center;
+    font-family: "Oufit";sans-serif;
+    font: size 16px;
+}
+
+body {
+    background-color: hsl(30, 54%, 90%)
+}
+
 img{
     border-radius: 5%;
-height: 320px;}
+height: 330px;}
+h1 {
+  font-family: "YoungSerif", serif;
+  font-size: 50px;
+}
+h2{
+    font-family: "YoungSerif", serif;
+  font-size: 30px;
+}
+p{
+    font-family: "sans-serif";
+    font-size: 15px;
+}
+
 .card {
   max-width: 700px;
-  margin: 40px auto;
-  padding: 30px;
-  border-radius: 20px;
-  background-color: hsl(330, 100%, 98%)
+  margin: 0px auto;
+  padding: 60px;
+  border-radius: 30px;
+  background-color: hsl(0, 0%, 100%);
+height: 1780px;
+
 
 }
 .preparation{
-    background-color: rgba(255, 217, 217, 0.37);
+    background-color: hsl(330, 100%, 98%);
     border-radius: 5%;
-    padding: 6px;
-    line-height: 180%;
+    padding: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+
 }
+
 .prepartime {
-    color: rgba(133, 0, 33, 0.925);
- font-size: 120%;
- line-height: 8%;
- text-align: left;
- font-weight:bold;
+color: hsl(332, 51%, 32%);
+font-family: "oufit", sans-serif
+
    }
    
    .ingridi{
-    color: hsl(332, 51%, 32%)
+    color: hsl(14, 45%, 36%)
    }
+   
    .instru{
-    color: hsl(332, 51%, 32%)
+    color: hsl(14, 45%, 36%)
 }
+.nutri{
+    color:hsl(14, 45%, 36%)
+}
+
+.nutrition-table {
+     width: 100%;
+  border-collapse: collapse;
+}
+
 .nutrition-table td{
     padding: 12px 8px;
 border-bottom: 1px solid #ddd;
@@ -39,4 +87,8 @@ border-bottom: 1px solid #ddd;
 }
 .nutrition-table tr:last-child td {
   border-bottom: none;
+}
+.nutrition-table td:nth-child(2) {
+    color: hsl(14, 45%, 36%);
+      font-weight: bold;
 }
